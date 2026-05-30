@@ -87,13 +87,13 @@ python3 --version
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/email-extractor.git
+https://github.com/Capt-Nouman/CodeAlpha-EmailExtractor.git
 ```
 
 Move into project directory:
 
 ```bash
-cd email-extractor
+cd Email-Extractor
 ```
 
 ---
