@@ -44,16 +44,6 @@ email-extractor/
 └── README.md
 ```
 
----
-<img width="448" height="214" alt="image" src="https://github.com/user-attachments/assets/035ee3d4-9cf2-47b1-8086-c4a704776105" />
----
-
-
-```
-<img width="352" height="146" alt="image" src="https://github.com/user-attachments/assets/e172e419-374f-4672-95ed-da1776b39dcd" />
-```
-
-
 # ⚙️ How It Works
 
 The script follows these simple steps:
