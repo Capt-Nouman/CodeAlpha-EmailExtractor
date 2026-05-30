@@ -41,10 +41,6 @@ email-extractor/
 ├── email_extractor.py
 ├── sample_input.txt
 ├── extracted_emails.txt
-├── screenshots/
-│   ├── input_file.png
-│   └── output_file.png
-│
 └── README.md
 ```
 
